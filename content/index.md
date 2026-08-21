@@ -1,17 +1,15 @@
 ---
-title: Inicio
+title: Bienvenido a mi laboratorio de ideas
 ---
-
-
-Hola. Estás navegando por mi archivo personal de notas, ideas y pensamientos en constante evolución. Este espacio no es un blog tradicional ni un portafolio estático; es un **jardín digital**.  Aquí, el conocimiento no sigue una línea recta. Las ideas se conectan de forma orgánica, reflejando un enfoque de pensamiento en red y no lineal, estructurado para que los conceptos interactúen entre sí. 
+Hola. Estás navegando por mi archivo personal de notas, ideas y pensamientos en constante evolución. Este espacio no es un blog tradicional ni un portafolio estático. Aquí, las ideas se conectan de forma orgánica, reflejando un enfoque de pensamiento en red y no lineal. 
 
 ---
 ## 👨‍⚖️ Sobre el autor
 
-En el día a día, soy abogado defensor penal (puedes encontrar mi perfil profesional y mi práctica oficial en [HF Abogados](http://hfabogados.cl/)). Sin embargo, este rincón de internet existe para explorar más allá de los márgenes de los expedientes y los tribunales. Es mi refugio para el texto plano, el minimalismo y la curiosidad.
-## 🌱 ¿Qué está creciendo aquí?
+En el día a día, soy abogado penalista (puedes encontrar mi perfil profesional en [HF Abogados](http://hfabogados.cl/)). Sin embargo, este rincón existe para explorar más allá de los márgenes de los expedientes y los tribunales. Es mi refugio para el texto plano, el minimalismo y la simple curiosidad.
+## 🌱 ¿Qué pasa aquí?
 
-Este jardín es un ecosistema diverso. Siguiendo la filosofía de estos espacios, algunas notas son apenas "semillas" (ideas incipientes), otras son "brotes" (conceptos en desarrollo), y algunas ya son notas maduras. Todo irá moviéndose.
+Algunas notas son apenas ideas incipientes, otras son conceptos  en desarrollo, y algunas ya son notas maduras. Todo irá moviéndose y creciendo con el tiempo.
 
 Al explorar, te encontrarás con diversas cosas:
 
