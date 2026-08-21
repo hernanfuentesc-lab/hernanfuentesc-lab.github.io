@@ -2,7 +2,6 @@
 title: Inicio
 ---
 
-# 🌿 Bienvenido a mi Jardín Digital
 
 Hola. Estás navegando por mi archivo personal de notas, ideas y pensamientos en constante evolución. Este espacio no es un blog tradicional ni un portafolio estático; es un **jardín digital**.  Aquí, el conocimiento no sigue una línea recta. Las ideas se conectan de forma orgánica, reflejando un enfoque de pensamiento en red y no lineal, estructurado para que los conceptos interactúen entre sí. 
 
