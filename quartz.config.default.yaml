@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 
+  pageTitle: "Hernán Fuentes"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://hernanfuentes.cl/
+  baseUrl: hernanfuentes.cl
   ignorePatterns:
     - private
     - templates
