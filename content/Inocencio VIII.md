@@ -1,0 +1,2 @@
+En la *Summis desiderantes affectibus* (1484), este gran sabio de la tribu reconoció explícitamente la existencia de las brujas aborteras y disfunsoras eréctiles. Lo lamento por todas las [[mujeres quemadas]], pero lo realmente lírico aquí es el esquema [título legal rimbombante / ley de mierda]. Verbigratia, *Ley de Defensa Permanente de la Democracia*, *Control de Identidad Preventivo*, *Ley de Amnistía*, *Ley Aula Segura*, *Ley Cholito*, etc. 
+

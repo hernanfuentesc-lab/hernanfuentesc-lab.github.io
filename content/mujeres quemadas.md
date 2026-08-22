@@ -1,0 +1,18 @@
+- Walpurga Hausmännin
+- María de los Dolores López
+- Matteuccia de Francesco. 
+	- confesó andar montando a demonios
+- Marguerite Porete
+- Pierina de Bugatis y Sibillia Zanni
+- Rebecca Lemp
+- María de Zozaya
+- Sybille de Mersines
+- Maria Renata Saenger von Mossau
+- Narbona Dacal
+	- abortista
+- Anna Göldi
+	- léase el artículo 341 del Código Procesal Penal
+- Petronilla de Meath
+- Agnes Waterhouse
+	- origen de la leyenda del chupacabras?
+	- 
