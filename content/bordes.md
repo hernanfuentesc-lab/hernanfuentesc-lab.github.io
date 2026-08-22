@@ -1,0 +1,40 @@
+Planto árboles en un *econoto* ( zonas de transición entre el bosque y el espacio abierto). Aquí la flora, la fauna, el tipo de suelo y el sistema subterráneo de [[micelios]], permiten tener mejor tasa de éxito comparado con el hecho de plantar un árbol aislado. 
+- Aislados
+	- un gingko biloba: muerto
+	- un canelo: vivo pero siempre triste
+	- crespón: débil
+	- peumo: muerto
+	- ciruelo: Súper bien
+	- quebracho arbusto: muerto
+	- un nativo incógnito
+- Al borde
+	- canelo: muerto por razones desconocidas
+	- mañío: muerto por razones desconocidas, sospecho alguna clase de peste
+	- arrayanes: excelentes
+	- naranjos: bien
+	- liquidámbar: demasiado bien
+	- limón: bien
+	- membrillero: demasiado bien
+	- peral: demasiado bien, crecimiento ultra veloz
+	- pino: demasiado bien
+	- abedul:  bien
+	- acer japónico: demasiado bien
+	- pitra: creciendo rápido
+	- bambú, no crece mucho pero bien
+	- sauce: excelente
+	- álamo Negro: rapídismo
+	- hhiguera, era un membrillo jajaj
+	- quillay: Campeones
+	- parra
+	- almendros, casi todos bien (se apestan)
+	- nogal: súpera
+	- aromo: debo ser el único espécimen humano que ha comprado un ejemplar
+	- durazno: reguleque
+	- araucaria: muerte por peste
+	- nandino: bien
+	- catalpa: se ve sana
+	- ligustro: mejora
+	- acacia melanoxylon: bien
+	- parra vid: bien
+	- gingko biloba: bien
+	- eucalipto cirenea: bien

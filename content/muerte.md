@@ -1,0 +1,1 @@
+Es el estado de equilibrio total. Entonces la vida es esencialmente un determinado estado de desequilibrio en un sistema.
