@@ -1,7 +1,3 @@
-dvadfvdsfvadfv
-afvadfvad
-fvadfv
-dfv
-sdfv
-sdfvsdf
-vsdf
+## Shizen
+
+![[pexels-seb-30358157-6937963.jpg]]
