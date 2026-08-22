@@ -1,10 +1,9 @@
 ---
 title: Bienvenido
 ---
-Hola. soy [[Hernán Fuentes]]. Estás navegando por un archivo de notas, ideas y pensamientos. Este espacio no es un blog tradicional ni un portafolio estático. Aquí, las ideas se conectan de forma orgánica, reflejando un enfoque de pensamiento en red y no lineal. Tiene fundamentalmente una intención experimental.
-
+Soy [[Hernán Fuentes]] y tú estás a punto de entrar en una bóveda de ideas y pensamientos destinados a estar enterrados. Aunque no es un lugar abierto, te estaba esperando. El "orgullo es mas fuerte que la prudencia".
 ---
-##Sobre el autor
+## Sobre el autor
 
 En el día a día, soy abogado penalista lo que a veces resulta un poco agotador (puedes encontrar mi perfil en [HF Abogados](http://hfabogados.cl/)). Sin embargo, este rincón existe para explorar no solo temas relacionados con la profesión, sino que para ir más allá de esos márgenes y de ese modo renovar . 
 ## ¿Qué pasa aquí?
