@@ -16,29 +16,29 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Inter
+      body: Inter
+      code: Fira Code
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#ffffff"
+        lightgray: "#e5e8eb"
+        gray: "#8a9ba8"
+        darkgray: "#394b59"
+        dark: "#1c2127"
+        secondary: "#106ba3"
+        tertiary: "#0e5a8a"
+        highlight: rgba(16, 107, 163, 0.1)
+        textHighlight: "#f5d94788"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#1e2327"
+        lightgray: "#2e363c"
+        gray: "#8a9ba8"
+        darkgray: "#d0d6dc"
+        dark: "#ffffff"
+        secondary: "#48aff0"
+        tertiary: "#2b95d6"
+        highlight: rgba(72, 175, 240, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
