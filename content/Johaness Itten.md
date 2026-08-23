@@ -3,7 +3,7 @@ En su famoso curso preliminar de la Bauhaus (Vorkurs), Itten desarrolló un mét
 
 ![[der-bachs-nger-helge-lindberg-1916.jpg|350]]
 
-Para Itten el [[ornamento]] no es mas que la manera de ocultar la ausencia de conexión del artista con la esencia de los materiales. Que queda después del [[ornamento]]? solo las formas básicas como el cuadrado, el triangulo y el círculo; los colores puros y la textura natural.
+Para Itten el [[ornamento]] no es mas que la manera de ocultar la ausencia de conexión del artista con la esencia de los materiales. Que queda después del [[ornamento]]? solo las formas básicas como el cuadrado, el triángulo y el círculo; los colores puros y la textura natural.
 
 ¿Cómo ser creativo entonces?
 
