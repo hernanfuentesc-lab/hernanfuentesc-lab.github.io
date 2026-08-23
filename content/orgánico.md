@@ -1,0 +1,12 @@
+- Qué es aquello que distingue a lo orgánico?
+	- sistema de metabolismo
+	- autorregulación
+	- capacidad de organización interna
+	- reproducción
+	- respuesta al entorno
+	- evolución
+	- t/a?
+- Que hay en los [[bordes]]? 
+	- Virus
+	- Prion
+	- Una semilla?
