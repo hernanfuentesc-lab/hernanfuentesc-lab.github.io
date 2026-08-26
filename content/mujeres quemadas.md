@@ -1,3 +1,4 @@
+Lista random de mujeres víctimas del [[castigo]] inquisitorio.-
 - Walpurga Hausmännin
 - María de los Dolores López
 - Matteuccia de Francesco. 

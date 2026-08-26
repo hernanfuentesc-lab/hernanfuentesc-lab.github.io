@@ -2,10 +2,10 @@ Este es un caso real:
 
 Señora X, buenos días. Le escribo para informar sobre la situación de su hijo Z. La Comisión de Libertad Condicional resolvió no otorgarle el beneficio en este semestre. El rechazo se fundamenta principalmente en el informe de Gendarmería.
 
-Dicho informe describió a Z como una persona en *estadio motivacional precontemplativo, con conciencia del daño inadecuada, sin habitualidad laboral, sin beneficios intrapenitenciarios actuales y con riesgo alto de reincidencia*. 
+Dicho informe describió a Z como una persona en [[estadio motivacional precontemplativo]], con conciencia del daño inadecuada, sin habitualidad laboral, sin beneficios intrapenitenciarios actuales y con riesgo alto de reincidencia*. 
 
 - Se estudia la interposición de una acción de amparo constitucional 
-	- en la confección del informe de Gendarmería habría vicios relacionados con la intromisión en el fuero íntimo de la persona condenada por cuanto esta sostiene ser inocente, sin perjuicio de respetar la decisión judicial. 
+	- en la confección del informe de Gendarmería habría vicios relacionados con la intromisión en el fuero íntimo de la persona condenada por cuanto esta sostiene ser inocente, sin perjuicio de respetar el [[castigo]] propio de la decisión judicial. 
 	- es cierto que el Decreto Ley 321 exige en su Artículo 2 N° 3 que el informe psicosocial dé cuenta de una *conciencia de la gravedad del delito, del mal que éste causa y de su rechazo explícito a tales delitos.*
 	- es esto equivalente a *conciencia del daño inadecuada*?
 		- no reconoce el delito?
