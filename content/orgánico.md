@@ -9,5 +9,5 @@
 - Que hay en los [[bordes]]? 
 	- Virus
 	- Prion
-	- Una semilla?
+	- Una semilla en estado de latencia?
 - [[Bonsai]]

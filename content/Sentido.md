@@ -1,0 +1,6 @@
+- La pregunta por el sentido de algo:
+	-  *para qué* .....finalidad
+	- *por qué*.....fundamento
+	- *qué significa*.....contenido expresado
+- Cuál es la función del sin-sentido en un espacio de juego abierto al escrutinio de la conciencia individual?
+	- el sin-sentido tendría una función vital no poco despreciable en el modo en que nosotros los seres humanos vivimos o experimentamos la realidad, ya que al percatarse de la existencia de una situación sin sentido, el individuo debe detenerse haciendo la pregunta por el sentido, esto es, esto que se me presenta debo darle un sentido o debo mantenerlo en suspenso?
